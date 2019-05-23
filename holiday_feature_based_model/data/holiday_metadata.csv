@@ -1,0 +1,399 @@
+city_id,holiday_date,holiday_name,reference_date_id
+1472,2017-09-30,First Day of Ashura,2016-10-11
+1472,2017-10-01,Second Day of Ashura,2016-10-12
+1472,2017-11-09,Iqbal Day,2016-11-09
+1472,2017-11-10,Chelum,2016-11-21
+1472,2017-12-01,Eid Milad un-Nabi,2016-12-12
+1472,2017-12-24,Christmas Eve,2016-12-24
+1472,2017-12-25,Christmas Day,2016-12-25
+1472,2017-12-25,Quaid-e-Azam Day,2016-12-25
+1472,2017-12-26,Day After Christmas,2016-12-26
+1472,2017-12-31,New Year's Eve,2016-12-31
+1472,2018-01-01,New Year's Day,2017-01-01
+1472,2018-01-22,Basant Panchami,2017-02-01
+1472,2018-02-05,Kashmir Day,2017-02-05
+1472,2018-02-13,Shivaratri,2017-02-24
+1472,2018-03-01,Holi,2017-03-13
+1472,2018-03-23,Pakistan Day,2017-03-23
+1472,2018-03-30,Good Friday,2017-04-14
+1472,2018-04-02,Easter Monday,2017-04-17
+1472,2018-04-13,Shab e-Meraj,2017-04-24
+1472,2018-04-14,Baisakhi,2017-04-14
+1472,2018-04-21,Eid e-Rizwan,2017-04-21
+1472,2018-04-21,Ridván,2017-04-21
+1472,2018-04-24,Shab e-Barat,2017-05-05
+1472,2018-04-29,Buddha Purnima,2017-05-10
+1472,2018-04-30,Buddha Purnima,2017-05-10
+1472,2018-05-01,Labour Day,2017-01-05
+1472,2018-05-01,Shab e-Barat,2017-05-05
+1472,2018-05-28,Mid Ramadan Seasonality (trips crash and hourly seasonality shifts)(shoulder day),2017-05-29
+1472,2018-05-29,Mid Ramadan Seasonality (trips crash and hourly seasonality shifts)(shoulder day),2017-05-30
+1472,2018-05-30,Mid Ramadan Seasonality (trips crash and hourly seasonality shifts)(shoulder day),2017-05-31
+1472,2018-05-31,Mid Ramadan Seasonality (trips crash and hourly seasonality shifts)(shoulder day),2017-06-01
+1472,2018-06-01,Mid Ramadan Seasonality (trips crash and hourly seasonality shifts)(shoulder day),2017-06-02
+1472,2018-06-02,Mid Ramadan Seasonality (trips crash and hourly seasonality shifts)(shoulder day),2017-06-03
+1472,2018-05-27,Mid Ramadan Seasonality (trips crash and hourly seasonality shifts),2017-05-28
+1472,2018-06-04,Ramadan Crash Week 2(shoulder day),2017-06-05
+1472,2018-06-05,Ramadan Crash Week 2(shoulder day),2017-06-06
+1472,2018-06-06,Ramadan Crash Week 2(shoulder day),2017-06-07
+1472,2018-06-07,Ramadan Crash Week 2(shoulder day),2017-06-08
+1472,2018-06-08,Ramadan Crash Week 2(shoulder day),2017-06-09
+1472,2018-06-09,Ramadan Crash Week 2(shoulder day),2017-06-10
+1472,2018-06-03,Ramadan Crash Week 2,2017-06-04
+1472,2018-06-11,Ramadan Recovery Week 1 (trips start to recover)(shoulder day),2017-06-12
+1472,2018-06-12,Ramadan Recovery Week 1 (trips start to recover)(shoulder day),2017-06-13
+1472,2018-06-13,Ramadan Recovery Week 1 (trips start to recover)(shoulder day),2017-06-14
+1472,2018-06-14,Ramadan Recovery Week 1 (trips start to recover)(shoulder day),2017-06-15
+1472,2018-06-15,Ramadan Recovery Week 1 (trips start to recover)(shoulder day),2017-06-16
+1472,2018-06-16,Ramadan Recovery Week 1 (trips start to recover)(shoulder day),2017-06-17
+1472,2018-06-10,Ramadan Recovery Week 1 (trips start to recover),2017-06-11
+1472,2018-06-16,Eid-ul-Fitr Day 1,2017-06-29
+1472,2018-06-17,Eid-ul-Fitr Day 2,2017-06-29
+1472,2018-06-18,Eid-ul-Fitr Day 3,2017-06-29
+1472,2018-07-01,July 1 Bank Holiday,2017-07-01
+1472,2018-08-14,Independence Day,2017-08-14
+1472,2018-08-13,Pakistan National Independence Day - August 14th(shoulder day),2017-08-13
+1472,2018-08-15,Pakistan National Independence Day - August 14th(shoulder day),2017-08-15
+1472,2018-08-14,Pakistan National Independence Day - August 14th,2017-08-14
+1472,2018-08-20,Eid Al-Adha 2018 Day 1(shoulder day),2017-09-01
+1472,2018-08-22,Eid Al-Adha 2018 Day 1(shoulder day),2017-09-03
+1472,2018-08-23,Eid Al-Adha 2018 Day 1(shoulder day),2017-09-04
+1472,2018-08-24,Eid Al-Adha 2018 Day 1(shoulder day),2017-09-05
+1472,2018-08-19,Eid Al-Adha 2018 Day 1(shoulder day),2017-08-31
+1472,2018-08-21,Eid Al-Adha 2018 Day 1,2017-09-02
+1472,2018-08-22,Birthday of Lord Zoroaster (Khordad Sal),2017-08-22
+1472,2018-08-22,Eid Al-Adha 2018 Day 2,2017-09-02
+1472,2018-08-23,Eid Al-Adha 2018 Day 3,2017-09-03
+1472,2018-08-24,Eid Al-Adha 2018 Day 4,2017-09-04
+1472,2018-08-25,Eid Al-Adha 2018 Day 5,2017-09-05
+1472,2018-09-02,Janmashtami,2017-08-14
+1472,2018-09-03,Janmashtami,2017-08-14
+1472,2018-09-06,Defence Day,2017-09-06
+1472,2018-09-20,Ashoora Day 1,2017-09-30
+1472,2018-09-21,Ashoora Day 2,2017-10-01
+1472,2018-09-21,First Day of Ashura,2017-09-30
+1472,2018-09-22,Second Day of Ashura,2017-10-01
+1472,2018-10-17,Durga Pooja,2017-09-21
+1472,2018-10-19,Dussehra,2017-09-30
+1472,2018-10-24,Birthday of Guru Balmik Sawami Ji,2017-10-05
+1472,2018-10-30,Chelum,2017-11-10
+1472,2018-10-31,Chelum,2017-11-10
+1472,2018-11-07,Diwali/Deepavali,2017-10-19
+1472,2018-11-09,Iqbal Day,2017-11-09
+1472,2018-11-21,Eid Milad un-Nabi,2017-12-01
+1472,2018-11-23,Guru Nanak's Birthday,2017-11-04
+1472,2018-12-24,Christmas Eve,2017-12-24
+1472,2018-12-25,Christmas Day,2017-12-25
+1472,2018-12-25,Quaid-e-Azam Day,2017-12-25
+1472,2018-12-26,Day After Christmas,2017-12-26
+1472,2018-12-31,New Year's Eve,2017-12-31
+1472,2019-01-01,January 1 Bank Holiday,2018-01-01
+1472,2019-01-01,New Year's Day,2018-01-01
+1472,2019-02-05,Kashmir Day,2018-02-05
+1472,2019-02-10,Basant Panchami,2018-01-22
+1472,2019-03-20,Holi,2018-03-01
+1472,2019-03-21,Dulhandi,2018-03-02
+1472,2019-03-23,Pakistan Day,2018-03-23
+1472,2019-04-03,Shab e-Meraj,2018-04-13
+1472,2019-04-14,Baisakhi,2018-04-14
+1472,2019-04-19,Good Friday,2018-03-30
+1472,2019-04-20,Shab e-Barat,2018-05-01
+1472,2019-04-21,Ridván,2018-04-21
+1472,2019-04-22,Easter Monday,2018-04-02
+1472,2019-05-01,Labour Day,2018-05-01
+1472,2019-05-07,Ramadan week 1(shoulder day),2018-05-22
+1472,2019-05-08,Ramadan week 1(shoulder day),2018-05-23
+1472,2019-05-09,Ramadan week 1(shoulder day),2018-05-17
+1472,2019-05-10,Ramadan week 1(shoulder day),2018-05-18
+1472,2019-05-11,Ramadan week 1(shoulder day),2018-05-19
+1472,2019-05-12,Ramadan week 1(shoulder day),2018-05-20
+1472,2019-05-06,Ramadan week 1,2018-05-21
+1472,2019-05-14,Ramadan week 2(shoulder day),2018-05-22
+1472,2019-05-15,Ramadan week 2(shoulder day),2018-05-23
+1472,2019-05-16,Ramadan week 2(shoulder day),2018-05-24
+1472,2019-05-17,Ramadan week 2(shoulder day),2018-05-25
+1472,2019-05-18,Ramadan week 2(shoulder day),2018-05-26
+1472,2019-05-19,Ramadan week 2(shoulder day),2018-05-27
+1472,2019-05-13,Ramadan week 2,2018-05-21
+1472,2019-05-21,Ramadan week 3(shoulder day),2018-05-29
+1472,2019-05-22,Ramadan week 3(shoulder day),2018-05-30
+1472,2019-05-23,Ramadan week 3(shoulder day),2018-05-31
+1472,2019-05-24,Ramadan week 3(shoulder day),2018-06-01
+1472,2019-05-25,Ramadan week 3(shoulder day),2018-06-02
+1472,2019-05-26,Ramadan week 3(shoulder day),2018-06-03
+1472,2019-05-20,Ramadan week 3,2018-05-28
+1472,2019-05-28,Ramadan week 4(shoulder day),2018-06-05
+1472,2019-05-29,Ramadan week 4(shoulder day),2018-06-06
+1472,2019-05-30,Ramadan week 4(shoulder day),2018-06-07
+1472,2019-05-31,Ramadan week 4(shoulder day),2018-06-08
+1472,2019-06-01,Ramadan week 4(shoulder day),2018-06-09
+1472,2019-06-02,Ramadan week 4(shoulder day),2018-06-10
+1472,2019-05-27,Ramadan week 4,2018-06-04
+1472,2019-06-04,Ramadan week 5(shoulder day),2018-06-12
+1472,2019-06-05,Ramadan week 5(shoulder day),2018-06-16
+1472,2019-06-06,Ramadan week 5(shoulder day),2018-06-17
+1472,2019-06-07,Ramadan week 5(shoulder day),2018-06-18
+1472,2019-06-08,Ramadan week 5(shoulder day),2018-06-23
+1472,2019-06-09,Ramadan week 5(shoulder day),2018-06-24
+1472,2019-06-03,Ramadan week 5,2018-06-11
+1472,2019-07-01,July 1 Bank Holiday,2018-07-01
+1472,2019-08-12,Eid al-Adha Day 1,2018-08-24
+1472,2019-08-13,Eid al-Adha Day 2,2018-08-24
+1472,2019-08-14,Eid al-Adha Day 3,2018-08-24
+1472,2019-08-14,Independence Day,2018-08-14
+1472,2019-08-22,Birthday of Lord Zoroaster (Khordad Sal),2018-08-22
+1472,2019-08-24,Janmashtami,2018-09-03
+1472,2019-09-06,Defence Day,2018-09-06
+1472,2019-09-09,First Day of Ashura,2018-09-21
+1472,2019-09-10,Second Day of Ashura,2018-09-22
+1472,2019-10-06,Durga Pooja,2018-10-17
+1472,2019-10-08,Dussehra,2018-10-19
+1472,2019-10-13,Birthday of Guru Balmik Sawami Ji,2018-10-24
+1472,2019-10-20,Chelum,2018-10-30
+1472,2019-10-27,Diwali/Deepavali,2018-11-07
+1472,2019-11-09,Iqbal Day,2018-11-09
+1472,2019-11-12,Guru Nanak's Birthday,2018-11-23
+1472,2019-12-24,Christmas Eve,2018-12-24
+1472,2019-12-25,Christmas Day,2018-12-25
+1472,2019-12-25,Quaid-e-Azam Day,2018-12-25
+1472,2019-12-26,Day After Christmas,2018-12-26
+1472,2019-12-31,New Year's Eve,2018-12-31
+1472,2020-01-01,January 1 Bank Holiday,2019-01-01
+1472,2020-01-01,New Year's Day,2019-01-01
+1472,2020-01-29,Basant Panchami,2019-02-10
+1472,2020-02-05,Kashmir Day,2019-02-05
+1472,2020-03-09,Holi,2019-03-20
+1472,2020-03-10,Dulhandi,2019-03-21
+1472,2020-03-22,Shab e-Meraj,2019-04-03
+1472,2020-03-23,Pakistan Day,2019-03-23
+1472,2020-04-08,Shab e-Barat,2019-04-20
+1472,2020-04-10,Good Friday,2019-04-19
+1472,2020-04-13,Baisakhi,2019-04-14
+1472,2020-04-13,Easter Monday,2019-04-22
+1472,2020-04-20,Ridván,2019-04-21
+1472,2020-05-01,Labour Day,2019-05-01
+1472,2020-05-07,Buddha Purnima,2019-05-18
+1472,2020-05-24,Eid-ul-Fitr Day 1,2019-06-08
+1472,2020-05-26,Eid-ul-Fitr Day 3,2019-06-08
+1472,2020-05-27,Eid-ul-Fitr Day 4,2019-06-08
+1472,2020-07-01,July 1 Bank Holiday,2019-07-01
+1472,2020-07-31,Eid al-Adha Day 1,2019-08-14
+1472,2020-08-01,Eid al-Adha Day 2,2019-08-14
+1472,2020-08-02,Eid al-Adha Day 3,2019-08-14
+1472,2020-08-12,Janmashtami,2019-08-24
+1472,2020-08-14,Independence Day,2019-08-14
+1472,2020-08-21,Birthday of Lord Zoroaster (Khordad Sal),2019-08-22
+1472,2020-08-28,First Day of Ashura,2019-09-09
+1472,2020-08-29,Second Day of Ashura,2019-09-10
+1472,2020-09-06,Defence Day,2019-09-06
+1472,2020-10-07,Chelum,2019-10-20
+1472,2020-10-23,Durga Pooja,2019-10-06
+1472,2020-10-25,Dussehra,2019-10-08
+1472,2020-10-31,Birthday of Guru Balmik Sawami Ji,2019-10-13
+1472,2020-11-09,Iqbal Day,2019-11-09
+1472,2020-11-14,Diwali/Deepavali,2019-10-27
+1472,2020-11-30,Guru Nanak's Birthday,2019-11-12
+1472,2020-12-24,Christmas Eve,2019-12-24
+1472,2020-12-25,Christmas Day,2019-12-25
+1472,2020-12-25,Quaid-e-Azam Day,2019-12-25
+1472,2020-12-26,Day After Christmas,2019-12-26
+1472,2020-12-31,New Year's Eve,2019-12-31
+1546,2017-09-30,First Day of Ashura,2016-10-11
+1546,2017-10-01,Second Day of Ashura,2016-10-12
+1546,2017-11-09,Iqbal Day,2016-11-09
+1546,2017-11-10,Chelum,2016-11-21
+1546,2017-12-01,Eid Milad un-Nabi,2016-12-12
+1546,2017-12-24,Christmas Eve,2016-12-24
+1546,2017-12-25,Christmas Day,2016-12-25
+1546,2017-12-25,Quaid-e-Azam Day,2016-12-25
+1546,2017-12-26,Day After Christmas,2016-12-26
+1546,2017-12-31,New Year's Eve,2016-12-31
+1546,2018-01-01,New Year's Day,2017-01-01
+1546,2018-01-22,Basant Panchami,2017-02-01
+1546,2018-02-05,Kashmir Day,2017-02-05
+1546,2018-02-13,Shivaratri,2017-02-24
+1546,2018-03-01,Holi,2017-03-13
+1546,2018-03-23,Pakistan Day,2017-03-23
+1546,2018-03-30,Good Friday,2017-04-14
+1546,2018-04-02,Easter Monday,2017-04-17
+1546,2018-04-13,Shab e-Meraj,2017-04-24
+1546,2018-04-14,Baisakhi,2017-04-14
+1546,2018-04-21,Eid e-Rizwan,2017-04-21
+1546,2018-04-21,Ridván,2017-04-21
+1546,2018-04-24,Shab e-Barat,2017-05-05
+1546,2018-04-29,Buddha Purnima,2017-05-10
+1546,2018-04-30,Buddha Purnima,2017-05-10
+1546,2018-05-01,Labour Day,2017-05-01
+1546,2018-05-01,Shab e-Barat,2017-05-05
+1546,2018-05-28,Mid Ramadan Seasonality (trips crash and hourly seasonality shifts)(shoulder day),2017-05-29
+1546,2018-05-29,Mid Ramadan Seasonality (trips crash and hourly seasonality shifts)(shoulder day),2017-05-30
+1546,2018-05-30,Mid Ramadan Seasonality (trips crash and hourly seasonality shifts)(shoulder day),2017-05-31
+1546,2018-05-31,Mid Ramadan Seasonality (trips crash and hourly seasonality shifts)(shoulder day),2017-06-01
+1546,2018-06-01,Mid Ramadan Seasonality (trips crash and hourly seasonality shifts)(shoulder day),2017-06-02
+1546,2018-06-02,Mid Ramadan Seasonality (trips crash and hourly seasonality shifts)(shoulder day),2017-06-03
+1546,2018-05-27,Mid Ramadan Seasonality (trips crash and hourly seasonality shifts),2017-05-28
+1546,2018-06-04,Ramadan Crash Week 2(shoulder day),2017-06-05
+1546,2018-06-05,Ramadan Crash Week 2(shoulder day),2017-06-06
+1546,2018-06-06,Ramadan Crash Week 2(shoulder day),2017-06-07
+1546,2018-06-07,Ramadan Crash Week 2(shoulder day),2017-06-08
+1546,2018-06-08,Ramadan Crash Week 2(shoulder day),2017-06-09
+1546,2018-06-09,Ramadan Crash Week 2(shoulder day),2017-06-10
+1546,2018-06-03,Ramadan Crash Week 2,2017-06-04
+1546,2018-06-11,Ramadan Recovery Week 1 (trips start to recover)(shoulder day),2017-06-12
+1546,2018-06-12,Ramadan Recovery Week 1 (trips start to recover)(shoulder day),2017-06-13
+1546,2018-06-13,Ramadan Recovery Week 1 (trips start to recover)(shoulder day),2017-06-14
+1546,2018-06-14,Ramadan Recovery Week 1 (trips start to recover)(shoulder day),2017-06-15
+1546,2018-06-15,Ramadan Recovery Week 1 (trips start to recover)(shoulder day),2017-06-16
+1546,2018-06-16,Ramadan Recovery Week 1 (trips start to recover)(shoulder day),2017-06-17
+1546,2018-06-10,Ramadan Recovery Week 1 (trips start to recover),2017-06-11
+1546,2018-06-16,Eid-ul-Fitr Day 1,2017-06-29
+1546,2018-06-17,Eid-ul-Fitr Day 2,2017-06-29
+1546,2018-06-18,Eid-ul-Fitr Day 3,2017-06-29
+1546,2018-07-01,July 1 Bank Holiday,2017-07-01
+1546,2018-08-14,Independence Day,2017-08-14
+1546,2018-08-13,Pakistan National Independence Day - August 14th(shoulder day),2017-08-13
+1546,2018-08-15,Pakistan National Independence Day - August 14th(shoulder day),2017-08-15
+1546,2018-08-14,Pakistan National Independence Day - August 14th,2017-08-14
+1546,2018-08-20,Eid Al-Adha 2018 Day 1(shoulder day),2017-09-01
+1546,2018-08-22,Eid Al-Adha 2018 Day 1(shoulder day),2017-09-03
+1546,2018-08-23,Eid Al-Adha 2018 Day 1(shoulder day),2017-09-04
+1546,2018-08-24,Eid Al-Adha 2018 Day 1(shoulder day),2017-09-05
+1546,2018-08-19,Eid Al-Adha 2018 Day 1(shoulder day),2017-08-31
+1546,2018-08-21,Eid Al-Adha 2018 Day 1,2017-09-02
+1546,2018-08-22,Birthday of Lord Zoroaster (Khordad Sal),2017-08-22
+1546,2018-08-22,Eid Al-Adha 2018 Day 2,2017-09-02
+1546,2018-08-23,Eid Al-Adha 2018 Day 3,2017-09-03
+1546,2018-08-24,Eid Al-Adha 2018 Day 4,2017-09-04
+1546,2018-08-25,Eid Al-Adha 2018 Day 5,2017-09-05
+1546,2018-09-02,Janmashtami,2017-08-14
+1546,2018-09-03,Janmashtami,2017-08-14
+1546,2018-09-06,Defence Day,2017-09-06
+1546,2018-09-20,Ashoora Day 1,2017-09-30
+1546,2018-09-21,Ashoora Day 2,2017-10-01
+1546,2018-09-21,First Day of Ashura,2017-09-30
+1546,2018-09-22,Second Day of Ashura,2017-10-01
+1546,2018-10-17,Durga Pooja,2017-09-21
+1546,2018-10-19,Dussehra,2017-09-30
+1546,2018-10-24,Birthday of Guru Balmik Sawami Ji,2017-10-05
+1546,2018-10-30,Chelum,2017-11-10
+1546,2018-10-31,Chelum,2017-11-10
+1546,2018-11-07,Diwali/Deepavali,2017-10-19
+1546,2018-11-09,Iqbal Day,2017-11-09
+1546,2018-11-21,Eid Milad un-Nabi,2017-12-01
+1546,2018-11-23,Guru Nanak's Birthday,2017-11-04
+1546,2018-12-24,Christmas Eve,2017-12-24
+1546,2018-12-25,Christmas Day,2017-12-25
+1546,2018-12-25,Quaid-e-Azam Day,2017-12-25
+1546,2018-12-26,Day After Christmas,2017-12-26
+1546,2018-12-31,New Year's Eve,2017-12-31
+1546,2019-01-01,January 1 Bank Holiday,2018-01-01
+1546,2019-01-01,New Year's Day,2018-01-01
+1546,2019-02-05,Kashmir Day,2018-02-05
+1546,2019-02-10,Basant Panchami,2018-01-22
+1546,2019-03-20,Holi,2018-03-01
+1546,2019-03-21,Dulhandi,2018-03-02
+1546,2019-03-23,Pakistan Day,2018-03-23
+1546,2019-04-03,Shab e-Meraj,2018-04-13
+1546,2019-04-14,Baisakhi,2018-04-14
+1546,2019-04-19,Good Friday,2018-03-30
+1546,2019-04-20,Shab e-Barat,2018-05-01
+1546,2019-04-21,Ridván,2018-04-21
+1546,2019-04-22,Easter Monday,2018-04-02
+1546,2019-05-01,Labour Day,2018-05-01
+1546,2019-05-07,Ramadan week 1(shoulder day),2018-05-22
+1546,2019-05-08,Ramadan week 1(shoulder day),2018-05-23
+1546,2019-05-09,Ramadan week 1(shoulder day),2018-05-17
+1546,2019-05-10,Ramadan week 1(shoulder day),2018-05-18
+1546,2019-05-11,Ramadan week 1(shoulder day),2018-05-19
+1546,2019-05-12,Ramadan week 1(shoulder day),2018-05-20
+1546,2019-05-06,Ramadan week 1,2018-05-21
+1546,2019-05-14,Ramadan week 2(shoulder day),2018-05-22
+1546,2019-05-15,Ramadan week 2(shoulder day),2018-05-23
+1546,2019-05-16,Ramadan week 2(shoulder day),2018-05-24
+1546,2019-05-17,Ramadan week 2(shoulder day),2018-05-25
+1546,2019-05-18,Ramadan week 2(shoulder day),2018-05-26
+1546,2019-05-19,Ramadan week 2(shoulder day),2018-05-27
+1546,2019-05-13,Ramadan week 2,2018-05-21
+1546,2019-05-21,Ramadan week 3(shoulder day),2018-05-29
+1546,2019-05-22,Ramadan week 3(shoulder day),2018-05-30
+1546,2019-05-23,Ramadan week 3(shoulder day),2018-05-31
+1546,2019-05-24,Ramadan week 3(shoulder day),2018-06-01
+1546,2019-05-25,Ramadan week 3(shoulder day),2018-06-02
+1546,2019-05-26,Ramadan week 3(shoulder day),2018-06-03
+1546,2019-05-20,Ramadan week 3,2018-05-28
+1546,2019-05-28,Ramadan week 4(shoulder day),2018-06-05
+1546,2019-05-29,Ramadan week 4(shoulder day),2018-06-06
+1546,2019-05-30,Ramadan week 4(shoulder day),2018-06-07
+1546,2019-05-31,Ramadan week 4(shoulder day),2018-06-08
+1546,2019-06-01,Ramadan week 4(shoulder day),2018-06-09
+1546,2019-06-02,Ramadan week 4(shoulder day),2018-06-10
+1546,2019-05-27,Ramadan week 4,2018-06-04
+1546,2019-06-04,Ramadan week 5(shoulder day),2018-06-12
+1546,2019-06-05,Ramadan week 5(shoulder day),2018-06-16
+1546,2019-06-06,Ramadan week 5(shoulder day),2018-06-17
+1546,2019-06-07,Ramadan week 5(shoulder day),2018-06-18
+1546,2019-06-08,Ramadan week 5(shoulder day),2018-06-23
+1546,2019-06-09,Ramadan week 5(shoulder day),2018-06-24
+1546,2019-06-03,Ramadan week 5,2018-06-11
+1546,2019-07-01,July 1 Bank Holiday,2018-07-01
+1546,2019-08-12,Eid al-Adha Day 1,2018-08-24
+1546,2019-08-13,Eid al-Adha Day 2,2018-08-24
+1546,2019-08-14,Eid al-Adha Day 3,2018-08-24
+1546,2019-08-14,Independence Day,2018-08-14
+1546,2019-08-22,Birthday of Lord Zoroaster (Khordad Sal),2018-08-22
+1546,2019-08-24,Janmashtami,2018-09-03
+1546,2019-09-06,Defence Day,2018-09-06
+1546,2019-09-09,First Day of Ashura,2018-09-21
+1546,2019-09-10,Second Day of Ashura,2018-09-22
+1546,2019-10-06,Durga Pooja,2018-10-17
+1546,2019-10-08,Dussehra,2018-10-19
+1546,2019-10-13,Birthday of Guru Balmik Sawami Ji,2018-10-24
+1546,2019-10-20,Chelum,2018-10-30
+1546,2019-10-27,Diwali/Deepavali,2018-11-07
+1546,2019-11-09,Iqbal Day,2018-11-09
+1546,2019-11-12,Guru Nanak's Birthday,2018-11-23
+1546,2019-12-24,Christmas Eve,2018-12-24
+1546,2019-12-25,Christmas Day,2018-12-25
+1546,2019-12-25,Quaid-e-Azam Day,2018-12-25
+1546,2019-12-26,Day After Christmas,2018-12-26
+1546,2019-12-31,New Year's Eve,2018-12-31
+1546,2020-01-01,January 1 Bank Holiday,2019-01-01
+1546,2020-01-01,New Year's Day,2019-01-01
+1546,2020-01-29,Basant Panchami,2019-02-10
+1546,2020-02-05,Kashmir Day,2019-02-05
+1546,2020-03-09,Holi,2019-03-20
+1546,2020-03-10,Dulhandi,2019-03-21
+1546,2020-03-22,Shab e-Meraj,2019-04-03
+1546,2020-03-23,Pakistan Day,2019-03-23
+1546,2020-04-08,Shab e-Barat,2019-04-20
+1546,2020-04-10,Good Friday,2019-04-19
+1546,2020-04-13,Baisakhi,2019-04-14
+1546,2020-04-13,Easter Monday,2019-04-22
+1546,2020-04-20,Ridván,2019-04-21
+1546,2020-05-01,Labour Day,2019-05-01
+1546,2020-05-07,Buddha Purnima,2019-05-18
+1546,2020-05-24,Eid-ul-Fitr Day 1,2019-06-08
+1546,2020-05-26,Eid-ul-Fitr Day 3,2019-06-08
+1546,2020-05-27,Eid-ul-Fitr Day 4,2019-06-08
+1546,2020-07-01,July 1 Bank Holiday,2019-07-01
+1546,2020-07-31,Eid al-Adha Day 1,2019-08-14
+1546,2020-08-01,Eid al-Adha Day 2,2019-08-14
+1546,2020-08-02,Eid al-Adha Day 3,2019-08-14
+1546,2020-08-12,Janmashtami,2019-08-24
+1546,2020-08-14,Independence Day,2019-08-14
+1546,2020-08-21,Birthday of Lord Zoroaster (Khordad Sal),2019-08-22
+1546,2020-08-28,First Day of Ashura,2019-09-09
+1546,2020-08-29,Second Day of Ashura,2019-09-10
+1546,2020-09-06,Defence Day,2019-09-06
+1546,2020-10-07,Chelum,2019-10-20
+1546,2020-10-23,Durga Pooja,2019-10-06
+1546,2020-10-25,Dussehra,2019-10-08
+1546,2020-10-31,Birthday of Guru Balmik Sawami Ji,2019-10-13
+1546,2020-11-09,Iqbal Day,2019-11-09
+1546,2020-11-14,Diwali/Deepavali,2019-10-27
+1546,2020-11-30,Guru Nanak's Birthday,2019-11-12
+1546,2020-12-24,Christmas Eve,2019-12-24
+1546,2020-12-25,Christmas Day,2019-12-25
+1546,2020-12-25,Quaid-e-Azam Day,2019-12-25
+1546,2020-12-26,Day After Christmas,2019-12-26
+1546,2020-12-31,New Year's Eve,2019-12-31
